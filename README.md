@@ -54,4 +54,4 @@ StudentManagementSystem/
 - Login Authentication
 
 ## Author
-Your Name
+Priyadarshini
